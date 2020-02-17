@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_OP=/home/nud3l/code/btc-parachain/crates/bitcoin/target/debug/build/typenum-ce57f7262e33445f/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/nud3l/code/btc-parachain/crates/bitcoin/target/debug/build/typenum-ce57f7262e33445f/out/op.rs
